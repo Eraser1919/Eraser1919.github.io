@@ -1,12 +1,12 @@
-nav ul {
+.nav ul {
     display: flex;
     align-items: center;
     gap: 30px;
-    height: 200px;
+    height: 24px;
     color: white;
 }
 
-nav {
+.nav {
     padding: 5px;
     background-color: #031926;
 }
@@ -37,5 +37,5 @@ li a:hover{
 }
 
 .titles h1 {
-    font-size: 20px;
+    font-size: 32px;
 }

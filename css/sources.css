@@ -1,0 +1,18 @@
+.source {
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.sourcelinks{
+    display:flex;
+    flex-direction: column;
+}
+
+.sourcelinks p {
+    margin: 20px 0 20px 0;
+    flex: auto;
+}
+
+.source h2 {
+    margin-bottom: 10px;
+}
