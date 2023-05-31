@@ -1,0 +1,33 @@
+.thing {
+    display: flex;
+    position: absolute;
+}
+
+.pos {
+    width: 50%;
+}
+
+.neg {
+    width: 50%;
+    background-color: #468189;
+    color: #f4e9cd;
+}
+
+.thing div {
+    padding: 10px;
+    height: 100%;
+}
+
+.thing div img {
+    width: 100%;
+    height: auto;
+}
+
+p {
+    font-size: 20px;
+}
+
+h2 {
+    font-size: 24px;
+}
+

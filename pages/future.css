@@ -1,0 +1,61 @@
+.future {
+    padding: 10px 0 0 0;
+}
+
+.future p {
+    color: #468189;
+}
+
+.sub {
+    display: flex;
+    background-color: #468189;
+    padding: 10px;
+}
+
+.sub img {
+    flex: 1 1 0;
+    width: 20%;
+    object-fit: contain;
+    display: block;
+}
+
+.sub p {
+    flex: 3 1 0;
+    margin-right: 15px;
+    color: #f4e9cd;
+}
+
+p {
+    font-size: 24px;
+}
+
+h2 {
+    font-size: 32px;
+    margin-left: 10px;
+}
+
+.subtwo {
+    display: flex;
+    padding: 10px;
+}
+
+.subtwo img {
+    width: 20%;
+    height: auto;
+    display: block;
+    object-fit: contain;
+}
+
+.subtwo p {
+    margin-left: 15px;
+}
+
+.subthree {
+    background-color: #468189; 
+    padding: 10px;
+}
+
+.subthree p {
+    color: #f4e9cd;
+}
+
